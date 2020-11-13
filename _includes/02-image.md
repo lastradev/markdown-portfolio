@@ -1,1 +1,1 @@
-![Mountain image](https://i.imgur.com/Y0EsMtf.png)
+![Mountain image](https://i.imgur.com/kiLwf9I.jpg)
