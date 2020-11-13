@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Currently a student, always looking forward to learn new skills* :smiley:
+
+**Python** Webscrapping :robot: <br>
+ **C#** Unity dev :video_game: <br>
+ Java, C++
